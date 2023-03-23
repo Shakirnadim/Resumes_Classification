@@ -1,0 +1,9 @@
+docx2txt
+matplotlib
+nltk
+pandas
+pdfplumber
+plotly
+streamlit==1.17.0
+wordcloud
+scikit-learn
